@@ -1,0 +1,12 @@
+# Notebook and Python runtime artefacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.npy
+week3_student_grades.csv
+week3_student_grades.npy
+.pytest_cache/
+.DS_Store
