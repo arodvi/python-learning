@@ -1,6 +1,6 @@
 # COMP7022 Python Learning Portfolio
 
-A structured, executable collection of Python learning exercises completed and reviewed while studying for an MSc in Artificial Intelligence.
+A structured, executable collection of Python learning exercises completed and reviewed while studying for an MSc in Artificial Intelligence. The notebooks and all code comments are written in English.
 
 ## What is included?
 
@@ -11,6 +11,14 @@ A structured, executable collection of Python learning exercises completed and r
 | 03 | [Inheritance and NumPy](week-03/Week_03_Inheritance_Exceptions_and_NumPy.ipynb) | Inheritance, abstract classes, exceptions, NumPy manipulation and storage; 26 guided exercises and review tasks |
 
 > These notebooks are **educational practice**, not standalone industrial projects. Their purpose is to show progression, coding fundamentals, reasoning, and code review skills.
+
+## Inside each notebook
+
+Every guided example is organized with a practice task, runnable reference solution, step-by-step explanation, detailed comments within code, expected or verified outputs, and a common pitfall to watch for.
+
+- **Week 01:** 26 code examples and exercises.
+- **Week 02:** 27 code examples and exercises.
+- **Week 03:** 30 code examples and exercises.
 
 ## Solution provenance
 
