@@ -6,10 +6,10 @@ A structured, executable collection of Python learning exercises completed and r
 
 | Week | Notebook | Topics |
 | --- | --- | --- |
-| 01 | [Python foundations](week-01/Week_01_Python_Foundations_and_Data_Structures.ipynb) | Python syntax, loops, collections, comprehensions, slicing; adapted Class 2 and Class 3 practical tasks |
-| 02 | [Functions and OOP](week-02/Week_02_Functions_Lambdas_and_OOP.ipynb) | Functions, scope, recursion, higher-order functions, classes; adapted Class 5 practical tasks |
-| 03 | [Inheritance and NumPy](week-03/Week_03_Inheritance_Exceptions_and_NumPy.ipynb) | Inheritance, abstract classes, exceptions, NumPy manipulation and storage; 26 guided exercises and review tasks |
-| 04 | [Pandas and Matplotlib](week-04/Week_04_Pandas_and_Matplotlib.ipynb) | DataFrames, filtering, aggregation, centering, standardization, plotting; 35 exercises and six final review tasks |
+| [01](week-01/README.md) | [Python foundations](week-01/Week_01_Python_Foundations_and_Data_Structures.ipynb) | Python syntax, loops, collections, comprehensions, slicing; adapted Class 2 and Class 3 practical tasks |
+| [02](week-02/README.md) | [Functions and OOP](week-02/Week_02_Functions_Lambdas_and_OOP.ipynb) | Functions, scope, recursion, higher-order functions, classes; adapted Class 5 practical tasks |
+| [03](week-03/README.md) | [Inheritance and NumPy](week-03/Week_03_Inheritance_Exceptions_and_NumPy.ipynb) | Inheritance, abstract classes, exceptions, NumPy manipulation and storage; 26 guided exercises and review tasks |
+| [04](week-04/README.md) | [Pandas and Matplotlib](week-04/Week_04_Pandas_and_Matplotlib.ipynb) | DataFrames, filtering, aggregation, centering, standardization, plotting; 35 exercises and six final review tasks |
 
 > These notebooks are **educational practice**, not standalone industrial projects. Their purpose is to show progression, coding fundamentals, reasoning, and code review skills.
 
