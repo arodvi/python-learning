@@ -19,7 +19,7 @@ Each example can run on its own.
 
 ## COMP7022 Jupyter notebooks (MSc AI)
 
-A structured, English-language set of reviewed and reconstructed Python practice notebooks is available in [`notebooks/comp7022/`](notebooks/comp7022/README.md). Topics progress from Python fundamentals and data structures (Week 1) through functions and OOP (Week 2) to inheritance, exceptions, and NumPy (Week 3). These are labelled learning exercises, not production projects or verbatim university submissions.
+A structured, English-language set of reviewed and reconstructed Python practice notebooks is available in [`notebooks/comp7022/`](notebooks/comp7022/README.md). Topics progress from Python fundamentals and data structures (Week 1) through functions and OOP (Week 2), inheritance, exceptions and NumPy (Week 3), to Pandas and Matplotlib (Week 4). These are labelled learning exercises, not production projects or verbatim university submissions.
 
 ## Run the examples
 
